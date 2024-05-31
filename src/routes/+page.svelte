@@ -52,7 +52,7 @@
 	/>
 	<div class="flex items-center p-3 pt-0">
 		<Button type="submit" size="sm" class="ml-auto gap-1.5">
-			Send Message
+			Send
 			<CornerDownLeft class="size-3.5" />
 		</Button>
 	</div>
